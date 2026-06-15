@@ -1,0 +1,5 @@
+fastapi
+robotframework
+robotframework-jsonlibrary==0.5
+robotframework-requests==0.9.4
+uvicorn
