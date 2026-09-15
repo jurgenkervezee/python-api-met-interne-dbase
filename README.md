@@ -11,17 +11,11 @@ A REST api that allows you to interact with books in the system. There are four 
 
 ## Setup
 1) Go to the root of the project.
-
 2) Setup virtual environment: `python -m venv .venv`
-
 3) Activate virtual environment: `.venv\Scripts\activate`
-
-4) Install requirements: `python -m pip install -r .api\requirements.txt`
-
+4) Install requirements: `python -m pip install -r .api\requirements.txt
 5) Run project: `python .api\api.py`
-
-6) Go to [http://localhost:8000/docs](http://localhost:8000/docs) 
-
+6) Go to [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## Api testing
 
