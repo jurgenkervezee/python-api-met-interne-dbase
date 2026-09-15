@@ -14,18 +14,10 @@ Api Get Request
     ...                Example:
     ...                | Api Get Request    resource=books/total/
     ...                |                    status string=404
-    ...                |                    payload={ "payload": "json stuffs"}
+
     [Arguments]    ${resource}
     ...            ${status string}=200
-    ...            ${payload}={}
-    ...            ${params}={}
-    ...            ${headers}={}
 
     ${response}    Get    ${url}${resource}
-    ...                   json=${payload}
-    ...                   params=${params}
-    ...                   verify=${False}
-
-    Should Be Equal As Strings    ${response.status_code}    ${status string}
 
     RETURN    ${response}

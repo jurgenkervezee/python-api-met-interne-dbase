@@ -18,7 +18,5 @@ A REST api that allows you to interact with books in the system. There are four 
 6) Go to [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## Api testing
-
-## Part 1
 How would you test the available endpoints? See step 6 of setup.
 
