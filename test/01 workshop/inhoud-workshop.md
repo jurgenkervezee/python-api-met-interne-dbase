@@ -1,6 +1,10 @@
 # Inhoud Workshop 1
 
-- We beginnen met wat code
+- We beginnen met wat code voorbeeld api
+
+- In de suite
+    - sections
+
 - Terug naar de basics
     - Data types
         - String
@@ -8,7 +12,9 @@
     - collecties
         - list
         - dictionary 
-- In de suite
-    - sections
+
+- Maak een eigen keyword
+
 - Valideren
+
 - huiswerk opdrachten

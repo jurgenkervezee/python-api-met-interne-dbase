@@ -1,3 +1,5 @@
+# Huiswerk
+
 ## Documentatie
 ### Setup
 - [https://docs.robotframework.org/docs/getting_started/testing](https://docs.robotframework.org/docs/getting_started/testing)
@@ -7,14 +9,4 @@
 - [https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#getting-started](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#getting-started)
 
 ## Huiswerk
-1. maak een (suite) variable
-    - string
-    - list
-    - dictionaries
-
-2. Maak een nieuw keyword
-    - met argument
-
-3. Roep het keyword aan
-    - met een named argument
-    - valideer de uitkomst
+1. 
