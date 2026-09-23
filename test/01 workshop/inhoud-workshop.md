@@ -6,9 +6,10 @@
     - sections
 
 - Terug naar de basics
-    - Data types
+    - data types
         - String
         - Integer
+
     - collecties
         - list
         - dictionary 

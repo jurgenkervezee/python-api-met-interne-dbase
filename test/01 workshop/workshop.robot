@@ -12,19 +12,7 @@ Get Book By By ID
 
     Log To Console    ${response.json()}
 
-# Documentatie link toev
+# Use readme.md to get started
 
-# - We beginnen met wat code
-# - Terug naar de basics
-#     - Data types
-#         - String
-#         - Integer
-#     - collecties
-#         - list
-#         - dictionary 
-# - In de suite
-#     - sections
-# - Valideren
-# - huiswerk opdrachten
 
 *** Keywords ***

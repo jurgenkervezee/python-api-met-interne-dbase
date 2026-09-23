@@ -1,13 +1,8 @@
-## Purpose
-This project is created to learn about Api testing using robotframework
+## Workshop Robot Framework Beginners
+Doel van deze workshop is om de beginselen van Robot Framework te leren. Om te leren en te oefenen zullen we gebruik maken van een in memory dbase met api's. 
 
-## Project
-A REST api that allows you to interact with books in the system. There are four categories of interaction:
-
-- Reading
-- Writing
-- Updating
-- Deleting
+In de workshop maken we gebruik van visual studio code. 
+(Dit om iedereen een zelfde uitgangspunt te geven)
 
 ## Setup
 1) Go to the root of the project.
@@ -16,7 +11,3 @@ A REST api that allows you to interact with books in the system. There are four 
 4) Install requirements: `python -m pip install -r .api\requirements.txt
 5) Run project: `python .api\api.py`
 6) Go to [http://localhost:8000/docs](http://localhost:8000/docs)
-
-## Api testing
-How would you test the available endpoints? See step 6 of setup.
-
